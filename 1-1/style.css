@@ -1,1 +1,49 @@
 /* ここに記載 */
+h1 {
+ color: blue;
+ margin-bottom: 2rem;
+ font-size: 3rem;
+ }
+
+p {
+ font-size: 1rem;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+h1, p {
+    text-align: center;
+ }
+
+.container p {
+    color: darkgray;
+}
+
+a:hover {
+    color: orange;
+}    
+
+button {
+    color: blue;
+    border: none;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: orange;
+}
+
+.container {
+    max-width: 200px;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+.parent {
+    text-align: center;
+}
