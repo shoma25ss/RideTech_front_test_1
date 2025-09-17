@@ -1,4 +1,10 @@
 /* ここに記載 */
+
+/* ブラウザ既定の外側余白をリセット */
+body {
+  margin: 0;
+}
+
 h1, nav, footer {
  color: white;
 }
@@ -9,12 +15,13 @@ h2, p {
 
 footer {
  text-align: center;
- border: 1px solid #333;
+ border: 35px solid #333;
  background-color: #333;
  padding: 12px 16px;
 }
 
 header {
+ border: 35px solid #333;
  background-color: #333;
  padding: 12px 16px;
 }

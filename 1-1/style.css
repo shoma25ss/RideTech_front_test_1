@@ -13,15 +13,6 @@ img {
     width: 200px;
     height: auto;
     display: block;
-    margin: 0 auto;
-}
-
-h1, p {
-    text-align: center;
- }
-
-.container p {
-    color: darkgray;
 }
 
 a:hover {
@@ -36,14 +27,4 @@ button {
 
 button:hover {
     background-color: orange;
-}
-
-.container {
-    max-width: 200px;
-    margin: 2rem auto;
-    padding: 1rem;
-}
-
-.parent {
-    text-align: center;
 }
